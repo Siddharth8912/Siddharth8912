@@ -2,6 +2,8 @@
   <img src="https://raw.githubusercontent.com/Maiiialen/Maiiialen/master/resources/header_black.gif" width="1000" alt="retro-header"/>
 </div>
 
+<h1 align="center">Siddharth Kourav</h1>
+
 <h3 align="center">A developer passionate about the intersection of front-end development and 3D design.</h3>
 
 <br>
