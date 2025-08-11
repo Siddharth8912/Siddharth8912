@@ -1,9 +1,6 @@
-<h1 align="center">
-  Hi there, I'm Siddharth
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=3397F7&width=435&lines=Welcome+to+my+Profile!" alt="Typing SVG" />
-  </a>
-</h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Maiiialen/Maiiialen/master/resources/header_black.gif" width="1000" alt="retro-header"/>
+</div>
 
 <h3 align="center">A developer passionate about the intersection of front-end development and 3D design.</h3>
 
