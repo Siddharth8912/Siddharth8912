@@ -39,6 +39,8 @@
     <td align="center" width="150">
       <h4 align="center">Back-end</h4>
       <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
+      <br>
+       <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
     </td>
     <td align="center" width="150">
       <h4 align="center">Programming Languages</h4>
@@ -48,7 +50,46 @@
     </td>
      <td align="center" width="150">
       <h4 align="center">3D & Design</h4>
-      <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+       <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+      <br>
+       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+      <br>
+       <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+      <br>
+       <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI"/>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=500&color=3397F7&center=true&vCenter=true&width=435&lines=Tools+%26+Platforms" alt="Tools & Platforms" />
+  </a>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="170">
+      <h4 align="center">Version Control</h4>
+      <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      <br>
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      <br>
+      <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+      <br>
+      <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket"/>
+    </td>
+    <td align="center" width="170">
+      <h4 align="center">CI/CD & Hosting</h4>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+      <br>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+    </td>
+    <td align="center" width="170">
+      <h4 align="center">API & Monitoring</h4>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+      <br>
+      <img src="https://img.shields.io/badge/rest%20api-404d59.svg?style=for-the-badge&logo=api&logoColor=white" alt="REST API"/>
     </td>
   </tr>
 </table>
