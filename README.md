@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I'm Siddharth 
+  Hi there, I'm Siddharth
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=3397F7&width=435&lines=Welcome+to+my+Profile!" alt="Typing SVG" />
   </a>
@@ -11,12 +11,9 @@
 
 - 🌱 I’m currently diving deep into **front-end technologies** and sharpening my skills in **3D animation**.
 - 👯 I’m looking to collaborate on interactive web projects that involve creative design and animation.
-- 📫 You can view my work and get in touch with me here:
+- 📫 Get in touch with me here:
 
 <p align="left">
-  <a href="https://siddharth8912.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=hugo&logoColor=white" alt="Portfolio"/>
-  </a>
   </p>
 
 ---
