@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Pixel Art Banner -->
-  <img src="https://i.ibb.co/3vdgVjf/pixel-banner.gif" width="1000" alt="Pixel Art Banner"/>
+  <img src="https://raw.githubusercontent.com/MAiiialen/Maiiialen/master/resources/header_black.gif" width="1000" alt="Pixel Art Banner"/>
 </div>
 
 <h1 align="center">Siddharth Kourav</h1>
@@ -17,7 +17,7 @@
 - 📫 Get in touch with me here:  
 
 <p align="center">
-  <img src="https://i.ibb.co/rvYMbR9/pixel-developer.gif" width="120" alt="Pixel Avatar"/>
+  <img src="https://raw.githubusercontent.com/Tiny-Foxes/Pixel-Art-Icons/main/Icons/dev.png" width="120" alt="Pixel Avatar"/>
 </p>
 
 ---
@@ -32,9 +32,9 @@
     <td align="center" width="150">
       <h4 align="center">Front-end</h4>
       <img src="https://raw.githubusercontent.com/Tiny-Foxes/Pixel-Art-Icons/main/Icons/react.png" width="40" title="React"/>
-      <img src="https://raw.githubusercontent.com/Tiny-Foxes/Pixel-Art-Icons/main/Icons/html5.png" width="40" title="HTML5"/>
-      <img src="https://raw.githubusercontent.com/Tiny-Foxes/Pixel-Art-Icons/main/Icons/css3.png" width="40" title="CSS3"/>
-      <img src="https://raw.githubusercontent.com/Tiny-Foxes/Pixel-Art-Icons/main/Icons/nextjs.png" width="40" title="Next.js"/>
+      <img src="https://raw.githubusercontent.com/Tiny-Foxes/Pixel-Art-Icons/main/Icons/html.png" width="40" title="HTML5"/>
+      <img src="https://raw.githubusercontent.com/Tiny-Foxes/Pixel-Art-Icons/main/Icons/css.png" width="40" title="CSS3"/>
+      <img src="https://raw.githubusercontent.com/Tiny-Foxes/Pixel-Art-Icons/main/Icons/next.png" width="40" title="Next.js"/>
     </td>
     <td align="center" width="150">
       <h4 align="center">Back-end</h4>
@@ -56,7 +56,7 @@
 </table>
 
 <div align="center">
-  <img src="https://i.ibb.co/HKhQvBb/pixel-divider.gif" width="600"/>
+  <img src="https://raw.githubusercontent.com/Tiny-Foxes/Pixel-Art-Icons/main/Dividers/divider.gif" width="600"/>
 </div>
 
 <div align="center">
@@ -96,9 +96,8 @@
 </p>
 
 <div align="center">
-  <img src="https://i.ibb.co/z4WjGKP/loading-bar.gif" width="400" alt="Loading..."/>
+  <img src="https://raw.githubusercontent.com/Tiny-Foxes/Pixel-Art-Icons/main/Dividers/loading.gif" width="400" alt="Loading..."/>
 </div>
 
 <!-- Snake Contribution Graph -->
 ![Snake animation](https://github.com/Siddharth8912/Siddharth8912/blob/output/github-contribution-grid-snake.svg)
-
