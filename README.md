@@ -1,92 +1,86 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Maiiialen/Maiiialen/master/resources/header_black.gif" width="1000" alt="retro-header"/>
+  <!-- Pixel Art Banner -->
+  <img src="https://i.ibb.co/3vdgVjf/pixel-banner.gif" width="1000" alt="Pixel Art Banner"/>
 </div>
 
 <h1 align="center">Siddharth Kourav</h1>
 
-<h3 align="center">A developer passionate about the intersection of front-end development and 3D design.</h3>
+<div align="center">
+  <!-- Typing Animation with Pixel Font -->
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=4000&pause=500&color=03A062&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;3D+Designer;Open+Source+Contributor;Pixel+Art+Enthusiast" alt="Typing Animation"/>
+</div>
 
 <br>
 
-- 🌱 I’m currently diving deep into **front-end technologies** and sharpening my skills in **3D animation**.
-- 👯 I’m looking to collaborate on interactive web projects that involve creative design and animation.
-- 📫 Get in touch with me here:
+- 🌱 I’m currently diving deep into **front-end technologies** and sharpening my skills in **3D animation**.  
+- 👯 I’m looking to collaborate on interactive web projects that involve creative design and animation.  
+- 📫 Get in touch with me here:  
 
-<p align="left">
-  </p>
+<p align="center">
+  <img src="https://i.ibb.co/rvYMbR9/pixel-developer.gif" width="120" alt="Pixel Avatar"/>
+</p>
 
 ---
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=500&color=3397F7&center=true&vCenter=true&width=435&lines=My+Tech+Stack" alt="My Tech Stack" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=4000&pause=500&color=3397F7&center=true&vCenter=true&width=500&lines=My+Tech+Stack" alt="My Tech Stack"/>
 </div>
 
+<!-- Tech Stack with Pixel Icons -->
 <table align="center">
   <tr>
     <td align="center" width="150">
       <h4 align="center">Front-end</h4>
-      <img src="https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-      <br>
-      <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
-      <br>
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-      <br>
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+      <img src="https://raw.githubusercontent.com/Tiny-Foxes/Pixel-Art-Icons/main/Icons/react.png" width="40" title="React"/>
+      <img src="https://raw.githubusercontent.com/Tiny-Foxes/Pixel-Art-Icons/main/Icons/html5.png" width="40" title="HTML5"/>
+      <img src="https://raw.githubusercontent.com/Tiny-Foxes/Pixel-Art-Icons/main/Icons/css3.png" width="40" title="CSS3"/>
+      <img src="https://raw.githubusercontent.com/Tiny-Foxes/Pixel-Art-Icons/main/Icons/nextjs.png" width="40" title="Next.js"/>
     </td>
     <td align="center" width="150">
       <h4 align="center">Back-end</h4>
-      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
-      <br>
-       <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://raw.githubusercontent.com/Tiny-Foxes/Pixel-Art-Icons/main/Icons/express.png" width="40" title="Express.js"/>
+      <img src="https://raw.githubusercontent.com/Tiny-Foxes/Pixel-Art-Icons/main/Icons/mysql.png" width="40" title="MySQL"/>
     </td>
     <td align="center" width="150">
-      <h4 align="center">Programming Languages</h4>
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-      <br>
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+      <h4 align="center">Programming</h4>
+      <img src="https://raw.githubusercontent.com/Tiny-Foxes/Pixel-Art-Icons/main/Icons/javascript.png" width="40" title="JavaScript"/>
+      <img src="https://raw.githubusercontent.com/Tiny-Foxes/Pixel-Art-Icons/main/Icons/python.png" width="40" title="Python"/>
     </td>
-     <td align="center" width="150">
+    <td align="center" width="150">
       <h4 align="center">Design</h4>
-       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-      <br>
-       <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-      <br>
-       <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI"/>
+      <img src="https://raw.githubusercontent.com/Tiny-Foxes/Pixel-Art-Icons/main/Icons/tailwind.png" width="40" title="Tailwind CSS"/>
+      <img src="https://raw.githubusercontent.com/Tiny-Foxes/Pixel-Art-Icons/main/Icons/bootstrap.png" width="40" title="Bootstrap"/>
+      <img src="https://raw.githubusercontent.com/Tiny-Foxes/Pixel-Art-Icons/main/Icons/materialui.png" width="40" title="Material UI"/>
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=500&color=3397F7&center=true&vCenter=true&width=435&lines=Tools+%26+Platforms" alt="Tools & Platforms" />
-  </a>
+  <img src="https://i.ibb.co/HKhQvBb/pixel-divider.gif" width="600"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=4000&pause=500&color=3397F7&center=true&vCenter=true&width=500&lines=Tools+%26+Platforms" alt="Tools & Platforms"/>
 </div>
 
 <table align="center">
   <tr>
     <td align="center" width="170">
       <h4 align="center">Version Control</h4>
-      <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-      <br>
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-      <br>
-      <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-      <br>
-      <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket"/>
+      <img src="https://raw.githubusercontent.com/Tiny-Foxes/Pixel-Art-Icons/main/Icons/git.png" width="40" title="Git"/>
+      <img src="https://raw.githubusercontent.com/Tiny-Foxes/Pixel-Art-Icons/main/Icons/github.png" width="40" title="GitHub"/>
+      <img src="https://raw.githubusercontent.com/Tiny-Foxes/Pixel-Art-Icons/main/Icons/gitlab.png" width="40" title="GitLab"/>
+      <img src="https://raw.githubusercontent.com/Tiny-Foxes/Pixel-Art-Icons/main/Icons/bitbucket.png" width="40" title="Bitbucket"/>
     </td>
     <td align="center" width="170">
       <h4 align="center">CI/CD & Hosting</h4>
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-      <br>
-      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+      <img src="https://raw.githubusercontent.com/Tiny-Foxes/Pixel-Art-Icons/main/Icons/githubactions.png" width="40" title="GitHub Actions"/>
+      <img src="https://raw.githubusercontent.com/Tiny-Foxes/Pixel-Art-Icons/main/Icons/vercel.png" width="40" title="Vercel"/>
     </td>
     <td align="center" width="170">
       <h4 align="center">API & Monitoring</h4>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-      <br>
-      <img src="https://img.shields.io/badge/rest%20api-404d59.svg?style=for-the-badge&logo=api&logoColor=white" alt="REST API"/>
+      <img src="https://raw.githubusercontent.com/Tiny-Foxes/Pixel-Art-Icons/main/Icons/postman.png" width="40" title="Postman"/>
+      <img src="https://raw.githubusercontent.com/Tiny-Foxes/Pixel-Art-Icons/main/Icons/api.png" width="40" title="REST API"/>
     </td>
   </tr>
 </table>
@@ -100,3 +94,11 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth8912&layout=compact&langs_count=8&theme=dracula" alt="Siddharth's Top Languages"/>
 </p>
+
+<div align="center">
+  <img src="https://i.ibb.co/z4WjGKP/loading-bar.gif" width="400" alt="Loading..."/>
+</div>
+
+<!-- Snake Contribution Graph -->
+![Snake animation](https://github.com/Siddharth8912/Siddharth8912/blob/output/github-contribution-grid-snake.svg)
+
